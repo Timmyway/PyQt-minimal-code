@@ -1,5 +1,6 @@
-__py__cache/
+__pycache__
 static/
 toolbox.py
 tt_util.py
 ui_util.py
+.gitignore
